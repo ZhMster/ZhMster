@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZhMster also known as "With'r".
-- I know a lot of Lua, and I'm learningC++ and C.
+- I know a lot of Lua, and I'm learning C++ and C.
 - A little of JavaScript, C#, Python.
 
 <!---
